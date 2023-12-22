@@ -40,17 +40,17 @@ const styles = StyleSheet.create({
   },
   title: {
     fontSize: 45,
-    fontWeight: 600,
+    //fontWeight: 600,
     color: "#FFFFFF",
   },
   text: {
     fontSize: 16,
-    fontWeight: 600,
+    //fontWeight: 600,
     color: "#FFFFFF",
   },
   textInput: {
     fontSize: 16,
-    fontWeight: 300,
+    //fontWeight: 300,
     color: "#757083",
     opacity: 1,
     width: "88%",
@@ -62,7 +62,7 @@ const styles = StyleSheet.create({
   },
   chooseBackgroundColorText: {
     fontSize: 16,
-    fontWeight: 300,
+    //fontWeight: 300,
     color: "#fff",
     opacity: 1,
   },
@@ -115,7 +115,7 @@ const styles = StyleSheet.create({
   },
   chatButton: {
     fontSize: 16,
-    fontWeight: 600,
+    //fontWeight: 600,
     color: "#FFFFFF",
     backgroundColor: "#757083",
     opacity: 1,
